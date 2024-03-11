@@ -19,6 +19,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 #pragma once
+#define UNICODE_SELECTED_MODES UNICODE_MODE_LINUX
+#define SPLIT_TRANSPORT_MIRROR
 
 /* Select hand configuration */
 
